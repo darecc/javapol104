@@ -1,3 +1,5 @@
+package dc;
+
 /**
  * zadanie2: suma liczb parzystych od 2 do m, bez podzielnych przez 3
  */
