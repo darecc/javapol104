@@ -1,0 +1,185 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d65d55ac-878f-4ece-9dfb-aa91784e8c91\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/parzysteBezpodzielnychPrzez3.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/dc/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/dc/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/src/dc/Main.java\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\">\r\n    <option name=\"x\" value=\"70\" />\r\n    <option name=\"y\" value=\"20\" />\r\n    <option name=\"width\" value=\"1836\" />\r\n    <option name=\"height\" value=\"1027\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"21UmCtYOoalE3tnrEwtYjkUGNwQ\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"Course\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"zdjavapol104\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"zdjavapol104\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"zdjavapol104\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"zdjavapol104\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n      <pane id=\"PackagesPane\" />\r\n    </panes>\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp\" value=\"1638002077480\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.sumaBezpodzielnychPrzez3\">\r\n    <configuration name=\"pierwiastki\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"dc.pierwiastki\" />\r\n      <module name=\"zdjavapol104\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"dc.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"sumaBezpodzielnychPrzez3\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"sumaBezpodzielnychPrzez3\" />\r\n      <module name=\"zdjavapol104\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.sumaBezpodzielnychPrzez3\" />\r\n        <item itemvalue=\"Application.pierwiastki\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d65d55ac-878f-4ece-9dfb-aa91784e8c91\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1638001167000</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1638001167000</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"70\" y=\"20\" width=\"1836\" height=\"1027\" extended-state=\"0\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info id=\"Image Layers\" />\r\n      <window_info id=\"Designer\" />\r\n      <window_info id=\"UI Designer\" />\r\n      <window_info id=\"Capture Tool\" />\r\n      <window_info id=\"Favorites\" side_tool=\"true\" />\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Educational.CheckDetails\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"right\" id=\"Palette\" />\r\n      <window_info anchor=\"right\" id=\"Codota\" />\r\n      <window_info anchor=\"right\" id=\"Theme Preview\" />\r\n      <window_info anchor=\"right\" id=\"Maven\" />\r\n      <window_info anchor=\"right\" id=\"Capture Analysis\" />\r\n      <window_info anchor=\"right\" id=\"Palette&#9;\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/src/dc/Main.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"110\">\r\n          <caret line=\"5\" column=\"33\" selection-start-line=\"5\" selection-start-column=\"33\" selection-end-line=\"5\" selection-end-column=\"33\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n  <component name=\"masterDetails\">\r\n    <states>\r\n      <state key=\"ProjectJDKs.UI\">\r\n        <settings>\r\n          <last-edited>1.8</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n    </states>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 60bd50581c93ca538e500ab7a7cff7c70edd5ae9)
++++ b/.idea/workspace.xml	(date 1638010140585)
+@@ -2,9 +2,13 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="d65d55ac-878f-4ece-9dfb-aa91784e8c91" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/parzysteBezpodzielnychPrzez3.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/zdjavapol104.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/dc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dc/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/dc/pierwiastki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dc/pierwiastki.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/zdjavapol104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zdjavapol104.iml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" default=\"true\" project-jdk-name=\"11.0.5\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 60bd50581c93ca538e500ab7a7cff7c70edd5ae9)
++++ b/.idea/misc.xml	(date 1638010356519)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11.0.5" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="17" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n      <module fileurl=\"file://$PROJECT_DIR$/zdjavapol104.iml\" filepath=\"$PROJECT_DIR$/zdjavapol104.iml\" />\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	(revision 60bd50581c93ca538e500ab7a7cff7c70edd5ae9)
++++ b/.idea/modules.xml	(date 1638009846172)
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$PROJECT_DIR$/zdjavapol104.iml" filepath="$PROJECT_DIR$/zdjavapol104.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/zdjavapol104.iml" filepath="$PROJECT_DIR$/.idea/zdjavapol104.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/dc/pierwiastki.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package dc;\r\n\r\nimport java.util.Scanner;\r\n\r\npublic class pierwiastki {\r\n    public static void main(String[] args) {\r\n        Scanner s = new Scanner(System.in);\r\n        double a, b, c;\r\n        double r1, r2, r3;\r\n        double delta;\r\n\r\n        System.out.println(\"Podaj a:\");\r\n        a = s.nextDouble();\r\n\r\n        System.out.println(\"Podaj b:\");\r\n        b = s.nextDouble();\r\n\r\n        System.out.println(\"Podaj c:\");\r\n        c = s.nextDouble();\r\n        delta = Math.pow(b, 2) - (4*a*c);\r\n\r\n        if (a < 0) {\r\n            System.out.println(\"Brak pierwiastka\");\r\n        }\r\n        else if (delta > 0) {\r\n            r1 = -b - Math.sqrt(delta) / (2 * a);\r\n            r2 = -b + Math.sqrt(delta) / (2 * a);\r\n            System.out.println(\"Wartość r1 wynosi: \" + r1 + \" a wartość r2 wynosi: \" + r2);\r\n        } else {\r\n            r3 = (-b) / (2 * a);\r\n            System.out.println(\"Wartość r3 wynosi:\" + r3);\r\n        }\r\n\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/dc/pierwiastki.java b/src/dc/pierwiastki.java
+--- a/src/dc/pierwiastki.java	(revision 60bd50581c93ca538e500ab7a7cff7c70edd5ae9)
++++ b/src/dc/pierwiastki.java	(date 1638010086376)
+@@ -4,32 +4,37 @@
+ 
+ public class pierwiastki {
+     public static void main(String[] args) {
++        //- Pierwiastki równania kwadratowego y = ax2 + bx + c
+         Scanner s = new Scanner(System.in);
+-        double a, b, c;
+-        double r1, r2, r3;
+-        double delta;
++               double a, b, c;
++               double d;
++                double r1, r2, r3;
+ 
+-        System.out.println("Podaj a:");
++        System.out.println("Podaj a");
+         a = s.nextDouble();
+-
+-        System.out.println("Podaj b:");
++        System.out.println("Podaj b");
+         b = s.nextDouble();
+-
+-        System.out.println("Podaj c:");
++        System.out.println("Podaj c");
+         c = s.nextDouble();
+-        delta = Math.pow(b, 2) - (4*a*c);
++
++               d = (b * b) - 4 * a * c;
+ 
+-        if (a < 0) {
+-            System.out.println("Brak pierwiastka");
++               if (d < 0) {
++                   System.out.println("Brak pierwiastków");
++               }
++               else if (d > 0){
++
++                            r1 = (-b - Math.sqrt(d)) / (2 * a);
++                            r2 = (-b + Math.sqrt(d)) / (2 * a);
++
++                   System.out.println("x1 wynosi : " + r1);
++                   System.out.println("x2 wynosi : " + r2);
++
+         }
+-        else if (delta > 0) {
+-            r1 = -b - Math.sqrt(delta) / (2 * a);
+-            r2 = -b + Math.sqrt(delta) / (2 * a);
+-            System.out.println("Wartość r1 wynosi: " + r1 + " a wartość r2 wynosi: " + r2);
+-        } else {
+-            r3 = (-b) / (2 * a);
+-            System.out.println("Wartość r3 wynosi:" + r3);
+-        }
++               else {
++                   r3 = (-b) / (2 * a);
++                   System.out.println("x0 wynosi : " + r3);
++               }
+ 
+ 
+ 
+Index: .idea/zdjavapol104.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/zdjavapol104.iml b/.idea/zdjavapol104.iml
+new file mode 100644
+--- /dev/null	(date 1638009846173)
++++ b/.idea/zdjavapol104.iml	(date 1638009846173)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: zdjavapol104.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/zdjavapol104.iml b/zdjavapol104.iml
+--- a/zdjavapol104.iml	(revision 60bd50581c93ca538e500ab7a7cff7c70edd5ae9)
++++ b/zdjavapol104.iml	(date 1638009846174)
+@@ -5,7 +5,7 @@
+     <content url="file://$MODULE_DIR$">
+       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+     </content>
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1638009846172)
++++ b/.gitignore	(date 1638009846172)
+@@ -0,0 +1,2 @@
++*.xml
++**/.idea/*.xml
+\ No newline at end of file
