@@ -1,51 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d65d55ac-878f-4ece-9dfb-aa91784e8c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_2021204/PrzesuniecieCzasu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_2021204/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_20211128/N_ty_wyraz_ciagu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="D:\workspace\javapol104\.idea\shelf/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_20211128/Czas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_2021204/PrzesuniecieCzasu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_2021204/Time.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,24 +90,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638106041073" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.PrzesuniecieCzasu">
+  <component name="RunManager" selected="Application.N_ty_wyraz_ciagu">
+    <configuration name="N_ty_wyraz_ciagu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.N_ty_wyraz_ciagu" />
+      <module name="zdjavapol104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_programowanie_20211128.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NajdluzszyCiag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.NajdluzszyCiag" />
       <module name="zdjavapol104" />
@@ -191,24 +165,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumaBezpodzielnychPrzez3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumaBezpodzielnychPrzez3" />
-      <module name="zdjavapol104" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N_ty_wyraz_ciagu" />
         <item itemvalue="Application.PrzesuniecieCzasu" />
         <item itemvalue="Application.Podzielniki" />
         <item itemvalue="Application.NajdluzszyCiag" />
         <item itemvalue="Application.podzielniki_liczby_X" />
-        <item itemvalue="Application.sumaBezpodzielnychPrzez3" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -261,14 +228,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -287,6 +247,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/dc/Main.java" />
