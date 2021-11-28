@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d65d55ac-878f-4ece-9dfb-aa91784e8c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dc/podzielniki_liczby_X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_20211128/NajdluzszyCiag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/dc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/dc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/dc/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/dc/pierwiastki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/dc/pierwiastki.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/parzysteBezpodzielnychPrzez3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/dc/podzielniki_liczby_X.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/dc/podzielniki_liczby_X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/dc/sumaBezpodzielnychPrzez3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/dc/sumaBezpodzielnychPrzez3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dc/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +73,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638002077480" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.podzielniki_liczby_X">
+  <component name="RunManager" selected="Application.NajdluzszyCiag">
+    <configuration name="NajdluzszyCiag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.NajdluzszyCiag" />
+      <module name="zdjavapol104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_programowanie_20211128.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pierwiastki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dc.pierwiastki" />
       <module name="zdjavapol104" />
@@ -110,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NajdluzszyCiag" />
         <item itemvalue="Application.podzielniki_liczby_X" />
         <item itemvalue="Application.sumaBezpodzielnychPrzez3" />
         <item itemvalue="Application.pierwiastki" />
