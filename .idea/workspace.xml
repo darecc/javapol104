@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65d55ac-878f-4ece-9dfb-aa91784e8c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_20211128/N_ty_wyraz_ciagu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_20211128/Czas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_20211128/Czas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_20211128/N_ty_wyraz_ciagu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_20211128/N_ty_wyraz_ciagu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_2021204/PrzesuniecieCzasu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_2021204/PrzesuniecieCzasu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_2021204/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zdjavapol104/Java_programowanie_2021204/Time.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.N_ty_wyraz_ciagu">
+  <component name="RunManager" selected="Application.UlamekBliskiLiczbie">
     <configuration name="N_ty_wyraz_ciagu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.N_ty_wyraz_ciagu" />
       <module name="zdjavapol104" />
@@ -152,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="podzielniki_liczby_X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dc.podzielniki_liczby_X" />
+    <configuration name="UlamekBliskiLiczbie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.UlamekBliskiLiczbie" />
       <module name="zdjavapol104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dc.*" />
+          <option name="PATTERN" value="Java_programowanie_20211128.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,15 +169,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UlamekBliskiLiczbie" />
         <item itemvalue="Application.N_ty_wyraz_ciagu" />
         <item itemvalue="Application.PrzesuniecieCzasu" />
         <item itemvalue="Application.Podzielniki" />
         <item itemvalue="Application.NajdluzszyCiag" />
-        <item itemvalue="Application.podzielniki_liczby_X" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
