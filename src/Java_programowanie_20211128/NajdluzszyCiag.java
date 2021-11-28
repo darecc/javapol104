@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class NajdluzszyCiag {
     public static void main(String[] args) {
+        System.out.println("Podaj roziar tablicy");
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 

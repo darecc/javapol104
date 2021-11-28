@@ -1,10 +1,11 @@
 package Java_programowanie_20211128;
 
+/**
+ * Dla kazdej liczby z przedzialu od 100 do 999 znajdz wszystkie liczby blizniacze.
+ * Za liczbe blizniacza rozumiemy tu liczbe skladajaca sie z takich samych cyfr.
+ */
 public class liczbyBlizniacze {
-    /**
-     * 3. Dla ka¿dej liczby z przedzia³u od 100 do 999 znajdŸ wszystkie liczby bliŸniacze. Za liczbê bliŸniacz¹ rozumiemy tu liczbê sk³adaj¹c¹ siê z takich samych cyfr.
-     * 4. Dla ka¿dej liczby z przedzia³u od 100 do 999 znajdŸ wszystkie liczby o takiej samej sumie podzielników ca³kowitych.
-     */
+
     public static void main(String[] args) {
         int[][] ciag = new int[1000][3];
 

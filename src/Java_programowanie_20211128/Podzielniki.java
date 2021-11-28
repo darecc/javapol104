@@ -3,11 +3,11 @@ package Java_programowanie_20211128;
 import java.util.Scanner;
 
 /**
- * Dla każdej liczby z przedziału od 1 do n znajdź wszystkie liczby o takiej samej sumie podzielników całkowitych.
+ * Dla każdej liczby z przedzialu od 1 do n znajdz wszystkie liczby o takiej samej sumie podzielników calkowitych.
  */
 public class Podzielniki {
     /**
-     * zdefiniowanie metody obliczającej sume podzielnikow
+     * zdefiniowanie metody obliczajacej sume podzielnikow
       * @param liczba liczba, dla której obliczamy podzielniki
      * @return suma podzielnikow
      */
@@ -30,12 +30,11 @@ public class Podzielniki {
             return;
         }
         int[] ciag = new int[n];
-
+        // obliczenie podzielników dla wszystkich liczb od 1 do n
         for (int i = 1; i < n-1; i++) {
             ciag[i]=SumaPodzielnikow(i);
         }
-
-    //porównanie
+        //porównanie
         for (int i = 1; i < n-1; i++) {
             for (int j = i +1; j < n; j++) {
                 if ( ciag[i] == ciag[j] ) {
