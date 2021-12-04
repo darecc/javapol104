@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65d55ac-878f-4ece-9dfb-aa91784e8c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_2021204/Okret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_2021204/PrimeFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,20 +97,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Pracownicy">
-    <configuration name="N_ty_wyraz_ciagu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.N_ty_wyraz_ciagu" />
-      <module name="zdjavapol104" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_programowanie_20211128.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrimeFinder">
     <configuration name="Okret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_programowanie_2021204.Okret" />
       <module name="zdjavapol104" />
@@ -126,6 +113,19 @@
     </configuration>
     <configuration name="Pracownicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_programowanie_2021204.Pracownicy" />
+      <module name="zdjavapol104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_programowanie_2021204.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_programowanie_2021204.PrimeFinder" />
       <module name="zdjavapol104" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeFinder" />
         <item itemvalue="Application.Pracownicy" />
         <item itemvalue="Application.Okret" />
         <item itemvalue="Application.PrzesuniecieCzasu" />
         <item itemvalue="Application.UlamekBliskiLiczbie" />
-        <item itemvalue="Application.N_ty_wyraz_ciagu" />
       </list>
     </recent_temporary>
   </component>
