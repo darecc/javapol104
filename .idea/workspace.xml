@@ -97,7 +97,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Okret">
+  <component name="RunManager" selected="Application.Pracownicy">
     <configuration name="N_ty_wyraz_ciagu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.N_ty_wyraz_ciagu" />
       <module name="zdjavapol104" />
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Podzielniki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.Podzielniki" />
+    <configuration name="Pracownicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_programowanie_2021204.Pracownicy" />
       <module name="zdjavapol104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_programowanie_20211128.*" />
+          <option name="PATTERN" value="Java_programowanie_2021204.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pracownicy" />
         <item itemvalue="Application.Okret" />
         <item itemvalue="Application.PrzesuniecieCzasu" />
         <item itemvalue="Application.UlamekBliskiLiczbie" />
         <item itemvalue="Application.N_ty_wyraz_ciagu" />
-        <item itemvalue="Application.Podzielniki" />
       </list>
     </recent_temporary>
   </component>
