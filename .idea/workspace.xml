@@ -5,81 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65d55ac-878f-4ece-9dfb-aa91784e8c91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_programowanie_2021204/Okret.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-11-27_12_14__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2021_11_53__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_programowanie_20211128/NajdluzszyCiag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_programowanie_20211128/NajdluzszyCiag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_programowanie_20211128/Podzielniki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_programowanie_20211128/Podzielniki.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_programowanie_20211128/UlamekBliskiLiczbie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_programowanie_20211128/UlamekBliskiLiczbie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_programowanie_20211128/liczbyBlizniacze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_programowanie_20211128/liczbyBlizniacze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_programowanie_2021204/PrzesuniecieCzasu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_programowanie_2021204/PrzesuniecieCzasu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_programowanie_2021204/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_programowanie_2021204/Time.java" afterDir="false" />
     </list>
-    <ignored path="D:\workspace\javapol104\.idea\shelf/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_2021204/PrzesuniecieCzasu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_2021204/Time.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_20211128/liczbyBlizniacze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_20211128/Podzielniki.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_20211128/UlamekBliskiLiczbie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java_programowanie_20211128/NajdluzszyCiag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,6 +85,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638118802731" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -162,19 +97,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.PrzesuniecieCzasu">
+  <component name="RunManager" selected="Application.Okret">
     <configuration name="N_ty_wyraz_ciagu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.N_ty_wyraz_ciagu" />
       <module name="zdjavapol104" />
@@ -188,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NajdluzszyCiag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_programowanie_20211128.NajdluzszyCiag" />
+    <configuration name="Okret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_programowanie_2021204.Okret" />
       <module name="zdjavapol104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_programowanie_20211128.*" />
+          <option name="PATTERN" value="Java_programowanie_2021204.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,15 +165,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Okret" />
         <item itemvalue="Application.PrzesuniecieCzasu" />
         <item itemvalue="Application.UlamekBliskiLiczbie" />
         <item itemvalue="Application.N_ty_wyraz_ciagu" />
         <item itemvalue="Application.Podzielniki" />
-        <item itemvalue="Application.NajdluzszyCiag" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -303,14 +226,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -329,6 +245,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/dc/Main.java" />
